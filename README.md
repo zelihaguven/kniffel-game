@@ -80,6 +80,11 @@ macOS / Linux convenience script:
 ./run.sh
 ```
 
+for the testing or more insights of the detection : 
+```bash
+python BinCountours.py
+```
+
 ---
 
 ## Controls
@@ -176,4 +181,4 @@ Potential scores for all unfilled categories are shown in grey on the scorecard 
 - OpenCV 4.x
 - pygame 2.x
 - NumPy
-- VS Code / Cursor
+- VS Code 
